@@ -1,0 +1,5 @@
+cvlib
+opencv-python
+mediapipe
+cvzone
+streamlit==1.2.0
